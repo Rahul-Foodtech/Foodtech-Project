@@ -226,19 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Food Technologist";
     }
     21%, 40%{
-        content: "Developer";
+        content: "New Product Innovation";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "Research & Development";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "Supply Chain";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Data Analysist in Food";
     }
 }
 
