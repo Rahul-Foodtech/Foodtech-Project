@@ -16,5 +16,4 @@ Analysis of FDA and EFSA specifications for natural colors using Excel Pivot Tab
 - Dashboard visualization
 - Compliance analysis
 
-## Screenshots
-Screenshots available in the Screenshots folder.
+
