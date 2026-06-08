@@ -266,5 +266,22 @@ span{
         width: 70vw;
         margin-top: 4rem;
     }
+#skills {
+    padding: 50px;
+    text-align: center;
 }
 
+.skill-box {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skill-box p {
+    background-color: #222;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+}
