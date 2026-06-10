@@ -269,4 +269,44 @@ span{
 #skills {
     padding: 50px;
     text-align: center;
+}/* Skills List Styling */
+#Skills-content ul {
+    list-style-type: none; /* Removes default bullets if preferred */
+    padding: 0;
+}
+
+#Skills-content li {
+    margin-bottom: 25px;
+    font-size: 1.2rem;
+}
+
+/* Project Preview Layout */
+.project-preview {
+    margin-top: 10px;
+    background: #f9f9f9; /* Light background card */
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #00eeff; /* Accent line matching portfolio theme */
+    max-width: 500px; /* Limits the width so it doesn't break layout */
+}
+
+.project-title {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+/* Image Responsive Styling */
+.skill-img {
+    width: 100%; /* Spans the width of the 500px container */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for a modern look */
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect for interactivity */
+.skill-img:hover {
+    transform: scale(1.02); 
 }
